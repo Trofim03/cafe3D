@@ -1,0 +1,14 @@
+@import './variables.scss';
+
+body {
+  margin: 0;
+  padding: 0;
+  background: $mainBgColor;
+  position: relative;
+  height: 500vh;
+  overflow-x: hidden;
+}
+
+// ::-webkit-scrollbar {
+//   width: 0;
+// }

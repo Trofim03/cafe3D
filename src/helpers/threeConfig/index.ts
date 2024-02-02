@@ -1,0 +1,1 @@
+export {initThree} from './threeConfig.ts'
